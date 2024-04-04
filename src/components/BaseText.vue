@@ -5,7 +5,7 @@
     fill="currentColor"
     style="white-space: pre"
   />
-  <text v-else style="font-size: 6px" fill="currentColor">⮐</text>
+  <text v-else style="font-size: 6px" fill="currentColor">&nbsp;</text>
 </template>
 
 <script lang="ts">
